@@ -37,7 +37,7 @@ def webhook():
 
     data = request.get_json()
 
-    # log(data)  # logging, no necesario en produccion
+    log(data)  # logging, no necesario en produccion
 
     inteligente = True
 
