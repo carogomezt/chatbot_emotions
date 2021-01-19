@@ -86,7 +86,7 @@ for line, (input_doc, target_doc) in enumerate(zip(input_docs, target_docs)):
 # print(pairs[:5])
 # print(input_docs[:5])
 
-#from tensorflow import keras
+from tensorflow import keras
 from keras.models import load_model
 
 from keras.layers import Input, LSTM, Dense
