@@ -4,13 +4,12 @@
 import os
 import sys
 import json
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
 import requests
 from flask import Flask, request
 
-import spacy
-spacy.load("en_core_web_sm")
+
+from chatbot_emotions.chatbot_model.chatbot import ChatBot
+
 app = Flask(__name__)
 
 
@@ -53,16 +52,11 @@ def webhook():
                     message_text = messaging_event['message']['text']  # el texto del mensaje
 
                     if inteligente:
-                        chatbot = ChatBot('Chalo')
-                        trainer = ChatterBotCorpusTrainer(chatbot)
+                        chatbot = ChatBot()
 
-                        # Train the chatbot based on the spanish corpus
+                        response = chatbot.start_chat(message_text)
 
-                        trainer.train('chatterbot.corpus.english')
-
-                        response = chatbot.get_response(message_text)
-
-                        send_message(sender_id, response.text)
+                        send_message(sender_id, response)
                     else:
                         send_message(sender_id, 'Hola')
 
