@@ -8,7 +8,7 @@ import requests
 from flask import Flask, request
 
 
-from chatbot_emotions.chatbot_model.chatbot import ChatBot
+from chatbot_model.chatbot import ChatBot
 
 app = Flask(__name__)
 
