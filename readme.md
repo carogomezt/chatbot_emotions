@@ -1,6 +1,20 @@
 # Facebook Messenger Bot
-Código simple que implementa un endpoint para ser usado como webhook de Facebook Messenger
 
-Lee el tutorial [AQUÍ](https://chatbotchile.cl/blog/crea-tu-primer-chatbot-de-facebook-messenger-en-python/).
+Chatbot generativo para Facebook que responde usando un modelo seq2seq.
+- [Base para el chatbot](https://github.com/santirom/chatbot-bancolombia2)
+- [Base para el modelo](https://towardsdatascience.com/generative-chatbots-using-the-seq2seq-model-d411c8738ab5)
 
-Este es un fork traducido al español del código original en https://github.com/hartleybrody/fb-messenger-bot/ mas algunas mejoras.
+## Pasos antes de desplegar
+1. Cuando se agreguen más datos en el dataset se debe generar de nuevo el archivo con los datos pre-procesados:
+    
+    `python pre_process_data.py`
+
+## Pasos para correr localmente el chatbot:
+1. Crear un ambiente virtual.
+2. Instalar los requerimientos:
+   
+    `pip install requirements.txt`
+   
+3. Correr el código:
+    
+    `python app.py`

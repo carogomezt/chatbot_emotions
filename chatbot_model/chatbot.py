@@ -1,121 +1,68 @@
-import re
-import random
-
 import os
-script_dir = os.path.dirname(__file__)
-data_path = script_dir + '/human_text.txt'
-data_path2 = script_dir + '/robot_text.txt'
-# Defining lines as a list of each line
-with open(data_path, 'r', encoding='unicode_escape') as f:
-  lines = f.read().split('\n')
-with open(data_path2, 'r', encoding='unicode_escape') as f:
-  lines2 = f.read().split('\n')
-lines = [re.sub(r"\[\w+\]",'hi',line) for line in lines]
-lines = [" ".join(re.findall(r"\w+",line)) for line in lines]
-lines2 = [re.sub(r"\[\w+\]",'',line) for line in lines2]
-lines2 = [" ".join(re.findall(r"\w+",line)) for line in lines2]
-# grouping lines by response pair
-pairs = list(zip(lines,lines2))
-#random.shuffle(pairs)
-
-# print(pairs[0:10])
+import re
 
 import numpy as np
-
-input_docs = []
-target_docs = []
-input_tokens = set()
-target_tokens = set()
-for line in pairs[:400]:
-    input_doc, target_doc = line[0], line[1]
-    # Appending each input sentence to input_docs
-    input_docs.append(input_doc)
-    # Splitting words from punctuation
-    target_doc = " ".join(re.findall(r"[\w']+|[^\s\w]", target_doc))
-    # Redefine target_doc below and append it to target_docs
-    target_doc = '<START> ' + target_doc + ' <END>'
-    target_docs.append(target_doc)
-
-    # Now we split up each sentence into words and add each unique word to our vocabulary set
-    for token in re.findall(r"[\w']+|[^\s\w]", input_doc):
-        if token not in input_tokens:
-            input_tokens.add(token)
-    for token in target_doc.split():
-        if token not in target_tokens:
-            target_tokens.add(token)
-input_tokens = sorted(list(input_tokens))
-target_tokens = sorted(list(target_tokens))
-num_encoder_tokens = len(input_tokens)
-num_decoder_tokens = len(target_tokens)
-
-input_features_dict = dict(
-    [(token, i) for i, token in enumerate(input_tokens)])
-target_features_dict = dict(
-    [(token, i) for i, token in enumerate(target_tokens)])
-
-reverse_input_features_dict = dict(
-    (i, token) for token, i in input_features_dict.items())
-reverse_target_features_dict = dict(
-    (i, token) for token, i in target_features_dict.items())
-
-max_encoder_seq_length = max(
-    [len(re.findall(r"[\w']+|[^\s\w]", input_doc)) for input_doc in input_docs])
-max_decoder_seq_length = max(
-    [len(re.findall(r"[\w']+|[^\s\w]", target_doc)) for target_doc in target_docs])
-
-encoder_input_data = np.zeros(
-    (len(input_docs), max_encoder_seq_length, num_encoder_tokens),
-    dtype='float32')
-decoder_input_data = np.zeros(
-    (len(input_docs), max_decoder_seq_length, num_decoder_tokens),
-    dtype='float32')
-decoder_target_data = np.zeros(
-    (len(input_docs), max_decoder_seq_length, num_decoder_tokens),
-    dtype='float32')
-
-for line, (input_doc, target_doc) in enumerate(zip(input_docs, target_docs)):
-    for timestep, token in enumerate(re.findall(r"[\w']+|[^\s\w]", input_doc)):
-        # Assign 1. for the current line, timestep, & word in encoder_input_data
-        encoder_input_data[line, timestep, input_features_dict[token]] = 1.
-
-    for timestep, token in enumerate(target_doc.split()):
-        decoder_input_data[line, timestep, target_features_dict[token]] = 1.
-        if timestep > 0:
-            decoder_target_data[line, timestep - 1, target_features_dict[token]] = 1.
-
-# print(pairs[:5])
-# print(input_docs[:5])
-
-from tensorflow import keras
-from keras.models import load_model
-
 from keras.layers import Input, LSTM, Dense
 from keras.models import Model
+from keras.models import load_model
 
-dimensionality = 256
-decoder_lstm = LSTM(dimensionality, return_sequences=True, return_state=True)
-decoder_inputs = Input(shape=(None, num_decoder_tokens))
-decoder_dense = Dense(num_decoder_tokens, activation='softmax')
-
-training_model = load_model(script_dir + '/training_model.h5')
-encoder_inputs = training_model.input[0]
-encoder_outputs, state_h_enc, state_c_enc = training_model.layers[2].output
-encoder_states = [state_h_enc, state_c_enc]
-encoder_model = Model(encoder_inputs, encoder_states)
-
-latent_dim = 256
-decoder_state_input_hidden = Input(shape=(latent_dim,))
-decoder_state_input_cell = Input(shape=(latent_dim,))
-decoder_states_inputs = [decoder_state_input_hidden, decoder_state_input_cell]
-decoder_outputs, state_hidden, state_cell = decoder_lstm(decoder_inputs,
-                                                         initial_state=decoder_states_inputs)
-decoder_states = [state_hidden, state_cell]
-decoder_outputs = decoder_dense(decoder_outputs)
-decoder_model = Model([decoder_inputs] + decoder_states_inputs, [decoder_outputs] + decoder_states)
+CURRENT_DIR = os.path.dirname(__file__)
 
 
-def decode_response(test_input):
+def process_tokens(input_file):
+    with open(f'{CURRENT_DIR}/{input_file}') as f:
+        lines = f.readlines()
+        input_docs =  list(lines[0].replace('\n', '').split(','))
+        target_docs = list(lines[1].replace('\n', '').split(','))
+        input_tokens = eval(lines[2])
+        target_tokens = eval(lines[3])
+
+    input_tokens = sorted(list(input_tokens))
+    target_tokens = sorted(list(target_tokens))
+
+    input_features_dict = dict(
+        [(token, i) for i, token in enumerate(input_tokens)])
+    target_features_dict = dict(
+        [(token, i) for i, token in enumerate(target_tokens)])
+
+    max_encoder_seq_length = max(
+        [len(re.findall(r"[\w']+|[^\s\w]", input_doc)) for input_doc in input_docs])
+    max_decoder_seq_length = max(
+        [len(re.findall(r"[\w']+|[^\s\w]", target_doc)) for target_doc in target_docs])
+
+    return max_decoder_seq_length, max_encoder_seq_length, input_features_dict, target_features_dict
+
+
+def generate_encoder_model(model):
+    training_model = load_model(f'{CURRENT_DIR}/{model}')
+    encoder_inputs = training_model.input[0]
+    encoder_outputs, state_h_enc, state_c_enc = training_model.layers[2].output
+    encoder_states = [state_h_enc, state_c_enc]
+    encoder_model = Model(encoder_inputs, encoder_states)
+    return encoder_model
+
+
+def generate_decoder_model(num_decoder_tokens):
+    dimensionality = 256
+    decoder_lstm = LSTM(dimensionality, return_sequences=True, return_state=True)
+    decoder_inputs = Input(shape=(None, num_decoder_tokens))
+    decoder_dense = Dense(num_decoder_tokens, activation='softmax')
+    latent_dim = 256
+    decoder_state_input_hidden = Input(shape=(latent_dim,))
+    decoder_state_input_cell = Input(shape=(latent_dim,))
+    decoder_states_inputs = [decoder_state_input_hidden, decoder_state_input_cell]
+    decoder_outputs, state_hidden, state_cell = decoder_lstm(decoder_inputs,
+                                                             initial_state=decoder_states_inputs)
+    decoder_states = [state_hidden, state_cell]
+    decoder_outputs = decoder_dense(decoder_outputs)
+    decoder_model = Model([decoder_inputs] + decoder_states_inputs, [decoder_outputs] + decoder_states)
+    return decoder_model
+
+
+def decode_response(test_input, max_decoder_seq_length, target_features_dict):
     # Getting the output states to pass into the decoder
+    num_decoder_tokens = len(target_features_dict)
+    encoder_model = generate_encoder_model('training_model_V2.h5')
     states_value = encoder_model.predict(test_input)
     # Generating empty target sequence of length 1
     target_seq = np.zeros((1, 1, num_decoder_tokens))
@@ -127,6 +74,11 @@ def decode_response(test_input):
 
     stop_condition = False
 
+    reverse_target_features_dict = dict(
+        (i, token) for token, i in target_features_dict.items())
+
+    decoder_model = generate_decoder_model(num_decoder_tokens)
+
     while not stop_condition:
         # Predicting output tokens with probabilities and states
         output_tokens, hidden_state, cell_state = decoder_model.predict([target_seq] + states_value)
@@ -135,7 +87,7 @@ def decode_response(test_input):
         sampled_token = reverse_target_features_dict[sampled_token_index]
         decoded_sentence += " " + sampled_token
         # Stop if hit max length or found the stop token
-        if (sampled_token == '<END>' or len(decoded_sentence) > max_decoder_seq_length):
+        if sampled_token == '<END>' or len(decoded_sentence) > max_decoder_seq_length:
             stop_condition = True
         # Update the target sequence
         target_seq = np.zeros((1, 1, num_decoder_tokens))
@@ -146,12 +98,11 @@ def decode_response(test_input):
 
 
 class ChatBot:
-    negative_responses = ("no", "nope", "nah", "naw", "no quiero", "lo siento")
     exit_commands = ("salir", "pausa", "exit", "salida", "chao", "bye", "stop", "parar")
 
     # Method to start the conversation
     def start_chat(self, user_response):
-        if user_response in self.negative_responses:
+        if user_response in self.exit_commands:
             return "Ok, ¡que tengas un buen día!"
         return self.chat(user_response)
 
@@ -160,8 +111,9 @@ class ChatBot:
         return self.generate_response(reply)
 
     # Method to convert user input into a matrix
-    def string_to_matrix(self, user_input):
+    def string_to_matrix(self, user_input, max_encoder_seq_length, input_features_dict):
         tokens = re.findall(r"[\w']+|[^\s\w]", user_input)
+        num_encoder_tokens = len(input_features_dict)
         user_input_matrix = np.zeros(
             (1, max_encoder_seq_length, num_encoder_tokens),
             dtype='float32')
@@ -172,8 +124,9 @@ class ChatBot:
 
     # Method that will create a response using seq2seq model we built
     def generate_response(self, user_input):
-        input_matrix = self.string_to_matrix(user_input)
-        chatbot_response = decode_response(input_matrix)
+        max_decoder_seq_length, max_encoder_seq_length, input_features_dict, target_features_dict = process_tokens('data_processed.txt')
+        input_matrix = self.string_to_matrix(user_input, max_encoder_seq_length, input_features_dict)
+        chatbot_response = decode_response(input_matrix, max_decoder_seq_length, target_features_dict)
         # Remove <START> and <END> tokens from chatbot_response
         chatbot_response = chatbot_response.replace("<START>", '')
         chatbot_response = chatbot_response.replace("<END>", '')

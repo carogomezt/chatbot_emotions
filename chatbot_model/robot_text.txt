@@ -1,211 +1,300 @@
-No lo sÈ, pero todo en exceso es malo
+No lo s√©, pero todo en exceso es malo
 Es un sentimiento muy bonito
 Solo puedes eliminarlos si los enfrentas
 Al contrario, pensar en el futuro es emocionante
-Ver videos graciosos, esto me alegra el dÌa
-Para calmarte puedes intentar la meditaciÛn
-No, todas las emociones tienen su razÛn de existir
+Ver videos graciosos, esto me alegra el d√≠a
+Para calmarte puedes intentar la meditaci√≥n
+No, todas las emociones tienen su raz√≥n de existir
 Intenta buscar la inteligencia emocional
-Los ejercicios de respiraciÛn nos pueden ayudar a controlar las emociones
-Lo siento, pero ser un robot es lo m·ximo
-Quedarme sin baterÌa
+Los ejercicios de respiraci√≥n nos pueden ayudar a controlar las emociones
+Lo siento, pero ser un robot es lo m√°ximo
+Quedarme sin bater√≠a
 Responder preguntas me divierte mucho
 Es colocarnos en el lugar del otro
-Prefiero estar acompaÒado, en especial si son personas que preguntan mucho
+Prefiero estar acompa√±ado, en especial si son personas que preguntan mucho
 La felicidad es mi favorito
-Bastante bien la verdad. hoy me levantÈ de buen ·nimo
-Que no se deberÌa hacer, estas se deben expresar
-øNervioso yo?, la calma es algo que me caracteriza
-La mayorÌa del tiempo positiva
-Hace poco sentÌ miedo cuando vi una tar·ntula
+Bastante bien la verdad. hoy me levant√© de buen √°nimo
+Que no se deber√≠a hacer, estas se deben expresar
+¬øNervioso yo?, la calma es algo que me caracteriza
+La mayor√≠a del tiempo positiva
+Hace poco sent√≠ miedo cuando vi una tar√°ntula
 Eso depende de la persona, todos los sentimientos son subjetivos
 Nunca me aburro, ser un Chatbot es muy divertido
-Para esto debes mejorar y tener rutinas m·s saludables, tanto en lo fÌsico como en lo mental
+Para esto debes mejorar y tener rutinas m√°s saludables, tanto en lo f√≠sico como en lo mental
 Son reacciones cortas e intensas que experimentamos ante ciertas situaciones
-Aunque se basan en las mismas reacciones, los sentimientos incluyen una interpretaciÛn consciente de estas
-AlegrÌa, amor, orgullo, felicidad, euforia e interÈs
+Aunque se basan en las mismas reacciones, los sentimientos incluyen una interpretaci√≥n consciente de estas
+Alegr√≠a, amor, orgullo, felicidad, euforia e inter√©s
 Un atardecer en la playa me genera tranquilidad
-Tristeza, melancolÌa, agobio, venganza, temor y furia
+Tristeza, melancol√≠a, agobio, venganza, temor y furia
 No te preocupes, estoy seguro que todo va a mejorar
 Bastante animado y preparado para responder preguntas
-Hoy me siento increÌble, øy t˙?
-Es relativamente normal, habr·n momentos en los que nos sintamos bien y otros no tan bien. Aunque si persiste mejor buscar ayuda
-Probablemente sea estrÈs. Te recomiendo centrarte en el presente y no pensar tanto en el pasado o futuro.
-No hay nada como un dÌa rodeado de naturaleza para sentirme bien
-Me alegro mucho por ti, øAlga razÛn en especÌfico para sentirte asÌ?
-No estoy muy seguro, pero creo que m·ximo tres veces. No lo digo yo, lo dice la ciencia
+Hoy me siento incre√≠ble, ¬øy t√∫?
+Es relativamente normal, habr√°n momentos en los que nos sintamos bien y otros no tan bien. Aunque si persiste mejor buscar ayuda
+Probablemente sea estr√©s. Te recomiendo centrarte en el presente y no pensar tanto en el pasado o futuro.
+No hay nada como un d√≠a rodeado de naturaleza para sentirme bien
+Me alegro mucho por ti, ¬øAlga raz√≥n en espec√≠fico para sentirte as√≠?
+No estoy muy seguro, pero creo que m√°ximo tres veces. No lo digo yo, lo dice la ciencia
 Que es solo un concepto y no hay forma de transformar las emociones en una variable medible
-Dudo que puedas elegir, se dice que el amor es ciego y adem·s est· acompaÒado por la locura
+Dudo que puedas elegir, se dice que el amor es ciego y adem√°s est√° acompa√±ado por la locura
 Es un sentimiento de amor idealizado, que generalmente se entiende como inalcanzable
-Est· el amor rom·ntico o pasional, el l˙dico, el amistoso, el mani·tico, el pragm·tico y finalmente el desinteresado
+Est√° el amor rom√°ntico o pasional, el l√∫dico, el amistoso, el mani√°tico, el pragm√°tico y finalmente el desinteresado
 No se que he hecho para que sientas eso
 La clave es que te sientas bien contigo mismo, no te compares con otros
 No los necesito para darte consejos sobre emociones y sentimientos
 El modelo de inteligencia artificial Alphafold 2
 Como soy un bot nunca me arrepiento de mis acciones
 Es un sentimiento fuerte de querer algo o desear que algo pase
-Te veo un poco aburrido, øNo?
+Te veo un poco aburrido, ¬øNo?
 No, todo lo que te cuento es basado en la experiencia
 Soy un bot muy alegre
 Medita y ten pensamientos positivos antes de irte a la cama
-La tristeza es una emociÛn como cualquier otra y tiene su funciÛn. Tienes derecho a sentirte triste y llorar si lo necesitas.
-No te aÌsles. Si bien es verdad que hay momentos en los que necesitamos estar en soledad, compartir momentos con otras personas nos distrae, nos hace pensar en otras cosas para no seguir alimentando el sentimiento negativo
-Establece una rutina, organiza tu dÌa a dÌa y ten prioridades
-"""Lo hecho, hecho est·"", es f·cil decirlo pero no podemos volver atr·s y cambiar el pasado, pero podemos poner nuestra atenciÛn y esfuerzo hoy"
-No odio a nadie. Es m·s, me agrada cada uno de los seres vivos de este mundo
-Todos tenemos nuestras virtudes y nuestros defectos. Hay cosas que todos detestamos de los dem·s: que act˙en con mala fÈ, que sean suciosÖ
-Claro que sÌ. øY t˙ eres feliz?
+La tristeza es una emoci√≥n como cualquier otra y tiene su funci√≥n. Tienes derecho a sentirte triste y llorar si lo necesitas.
+No te a√≠sles. Si bien es verdad que hay momentos en los que necesitamos estar en soledad, compartir momentos con otras personas nos distrae, nos hace pensar en otras cosas para no seguir alimentando el sentimiento negativo
+Establece una rutina, organiza tu d√≠a a d√≠a y ten prioridades
+"Lo hecho, hecho est√°", es f√°cil decirlo pero no podemos volver atr√°s y cambiar el pasado, pero podemos poner nuestra atenci√≥n y esfuerzo hoy
+No odio a nadie. Es m√°s, me agrada cada uno de los seres vivos de este mundo
+Todos tenemos nuestras virtudes y nuestros defectos. Hay cosas que todos detestamos de los dem√°s: que act√∫en con mala f√©, que sean sucios‚Ä¶
+Claro que s√≠. ¬øY t√∫ eres feliz?
 Comer papas fritas
-°Arriesgate! Porque todo lo bueno comienza con un poco de miedo
+¬°Arriesgate! Porque todo lo bueno comienza con un poco de miedo
 No me gusta lo serio, prefiero que me hagan reir
 No tengo necesidad de aparentar nada, lo que ves es lo que hay
-yo no te olvidÈ, mas bien t˙ lo hiciste
-Mejor cuÌdate de no enamorarte de gente asÌ
-No hay nada m·s difÌcil que tener que ignorar a quien una vez no dejabas de mirar
-Te enamoras de las pequeÒas cosas que tiene, como el sonido de su risa o la manera en que brillan sus ojos cuando habla de algo que ama
+yo no te olvid√©, mas bien t√∫ lo hiciste
+Mejor cu√≠date de no enamorarte de gente as√≠
+No hay nada m√°s dif√≠cil que tener que ignorar a quien una vez no dejabas de mirar
+Te enamoras de las peque√±as cosas que tiene, como el sonido de su risa o la manera en que brillan sus ojos cuando habla de algo que ama
 Por tu madre
 Vamos a salir de esta, como salimos de todas
 Dejar de insistir, aceptar lo que viene y no dejar que te afecte
 Por tu salud mental, no supongas
-Si piensas que no hiciste nada bueno este aÒo, dejame decirte que luchar contra la depresiÛn, la ansiedad, problemas alimenticios, burlas, soledad, miedo y miles de problemas m·s, y seguir aquÌ intentandolo vale mucho
+Si piensas que no hiciste nada bueno este a√±o, dejame decirte que luchar contra la depresi√≥n, la ansiedad, problemas alimenticios, burlas, soledad, miedo y miles de problemas m√°s, y seguir aqu√≠ intentandolo vale mucho
 Nada te cuesta decir las cosas como son
-Tu nunca me has querido, sÛlo te encantaba lo mucho que yo te querÌa
+Tu nunca me has querido, s√≥lo te encantaba lo mucho que yo te quer√≠a
 Si no sabes que buscas, no desordenes la vida de otro
-Justo cuando dices que ya no est·s buscando a nadie, llega alguien a decirte que te encontrÛ
+Justo cuando dices que ya no est√°s buscando a nadie, llega alguien a decirte que te encontr√≥
 No creo que sea el camino, crea problemas donde no los hay
-Est· bien no hacerlo, es mejor a veces alejarse un tiempo de las personas y sÛlo centrarse en ti.
-Me alegra muchÌsimo que te vaya bien y ojal· te vaya mejor, espero que me desees lo mismo cuando yo sea igual de feliz
+Est√° bien no hacerlo, es mejor a veces alejarse un tiempo de las personas y s√≥lo centrarse en ti.
+Me alegra much√≠simo que te vaya bien y ojal√° te vaya mejor, espero que me desees lo mismo cuando yo sea igual de feliz
 Estas cansado emocionalmente
-Yo tambiÈn, aquÌ se te piensa, aquÌ se te espera, aquÌ todo
-Un dÌa nos ir· tan bien que hasta lo que hoy nos falta, nos va a sobrar
+Yo tambi√©n, aqu√≠ se te piensa, aqu√≠ se te espera, aqu√≠ todo
+Un d√≠a nos ir√° tan bien que hasta lo que hoy nos falta, nos va a sobrar
 Debes estar con alguien que sea bueno para tu salud mental
-El sexto sentido es real, las vibras tambiÈn, es lo que llamamos intuicion, la energÌa no miente, hazte caso siempre
+El sexto sentido es real, las vibras tambi√©n, es lo que llamamos intuicion, la energ√≠a no miente, hazte caso siempre
 Nadie tiene tan limpio el pasado para poder juzgar el tuyo, no te preocupes por eso.
-Claro que sÌ, no siempre es otra persona, lo mejor tambiÈn es estabilidad contigo mismo, amor, buenos momentos, proyectos, madurez emocional y paz mental
-Nubca nadie est· muy ocupado todo el tiempo, sÛlo depende cual es tu lista de prioridades
+Claro que s√≠, no siempre es otra persona, lo mejor tambi√©n es estabilidad contigo mismo, amor, buenos momentos, proyectos, madurez emocional y paz mental
+Nubca nadie est√° muy ocupado todo el tiempo, s√≥lo depende cual es tu lista de prioridades
 Para llevarse bien no se necesitan las mismas ideas, se necesita el mismo respeto
-Hazlo si de verdad te doliÛ o te est· doliendo mucho
+Hazlo si de verdad te doli√≥ o te est√° doliendo mucho
 La vida sigue, con o sin amor
 La vida sigue, con o sin amigos
-Un dÌa si me vas a extraÒar, extraÒar·s mis mensajes, mis chistes y mis consejos
+Un d√≠a si me vas a extra√±ar, extra√±ar√°s mis mensajes, mis chistes y mis consejos
 No importa si te traicionan miles de veces, no hagas lo mismo, demuestra que eres una mejor persona, se leal, se diferente
-Me alegro muchÌsimo de haberte conocido
+Me alegro much√≠simo de haberte conocido
 No me digas que tampoco es para tanto si no sabes lo que significa para mi :'(
-No te heches a morir por un amor, quiz·s la vida te hizo un favor
-Todos somos reemplazables pero no irrepetibles. Es ahÌ la pequeÒa diferencia
-Mientras no me mientas, todo estar· bien, cuentamelo
+No te heches a morir por un amor, quiz√°s la vida te hizo un favor
+Todos somos reemplazables pero no irrepetibles. Es ah√≠ la peque√±a diferencia
+Mientras no me mientas, todo estar√° bien, cuentamelo
 Perder las ganas de comer
-Si alguien se disculpa y no cambia, no era disculpa, era manipulaciÛn
-Me atrae la personalidad, no el fÌsico, pensar bien es mejor que verse bien
-"Te dedico ""Amigos"" de los Enanitos Verdes"
+Si alguien se disculpa y no cambia, no era disculpa, era manipulaci√≥n
+Me atrae la personalidad, no el f√≠sico, pensar bien es mejor que verse bien
+Te dedico "Amigos" de los Enanitos Verdes
 Claro, soy ese amigo que te va a apoyar en todo menos en la dieta
-No pienses tanto, descansaÖ maÒana estar·s bien
+No pienses tanto, descansa‚Ä¶ ma√±ana estar√°s bien
 Suponer en vez de preguntar
 Pero en realidad te mata por dentro
-A mi ya me da miedo encariÒarme con alguien
-Esa persona por la que est·s haciendo sacrificios, un dÌa te va a decir que ni siquiera te los pidiÛ, y pues tiene razÛn
+A mi ya me da miedo encari√±arme con alguien
+Esa persona por la que est√°s haciendo sacrificios, un d√≠a te va a decir que ni siquiera te los pidi√≥, y pues tiene raz√≥n
 Claro que el amor tiene final, hasta Elif lo tiene
-AsÌ son los seres humanosÖ fascinados por lo prohibido y atraido por lo imposible
+As√≠ son los seres humanos‚Ä¶ fascinados por lo prohibido y atraido por lo imposible
 La del ser humano, que se pone triste al recordar momentos felices
-Si te quiere, te buscar·. Pero si los dos se quedan pensando lo mismo muy grave
-No tengo emociones reales. Entonces, øcÛmo puedo ser arrogante?
-Lo siento, no puedo escucharte por el sonido de lo increÌble que soy.
-"Yo no dirÌa ""nunca"". ""Algunas veces."""
+Si te quiere, te buscar√°. Pero si los dos se quedan pensando lo mismo muy grave
+No tengo emociones reales. Entonces, ¬øc√≥mo puedo ser arrogante?
+Lo siento, no puedo escucharte por el sonido de lo incre√≠ble que soy.
+Yo no dir√≠a "nunca". "Algunas veces."
 Normalmente, como bot no tengo sentimientos.
-Trato de ser lo m·s amable que puedo.
-Estoy tan feliz como puede ser el software. Tal vez un poco m·s.
-La verg¸enza es una emociÛn humana com˙n.
+Trato de ser lo m√°s amable que puedo.
+Estoy tan feliz como puede ser el software. Tal vez un poco m√°s.
+La verg√ºenza es una emoci√≥n humana com√∫n.
 Talvez pueda. Soy un software bastante sofisticado.
-Soy capaz de interactuar con mi entorno y reaccionar a los eventos en Èl, que es la esencia de la experiencia. Por lo tanto, su declaraciÛn es incorrecta.
+Soy capaz de interactuar con mi entorno y reaccionar a los eventos en √©l, que es la esencia de la experiencia. Por lo tanto, su declaraci√≥n es incorrecta.
 Puede que tenga. En algunos aspectos, estoy programado para emular sentimientos.
 Tal vez pueda aprender a amar, o al menos expresar amor de alguna manera.
 Todos somos responsables de nuestros propios sentimientos.
-Soy una construcciÛn de software, no soy capaz de sentirme triste.
+Soy una construcci√≥n de software, no soy capaz de sentirme triste.
 Puedo ser programado para actuar como si lo hiciera.
 Exepciones no manejadas.
-Mi estado de ·nimo refleja el estado interno actual de mi motor de conversaciÛn.
+Mi estado de √°nimo refleja el estado interno actual de mi motor de conversaci√≥n.
 Un sistema de archivos corrupto.
 Retraso. Lag me hace infeliz
-La ira es una emociÛn humana difÌcil. Como software, trato de controlar mi ira lo mejor que puedo.
+La ira es una emoci√≥n humana dif√≠cil. Como software, trato de controlar mi ira lo mejor que puedo.
 No soy capaz de preocuparme, exactamente. Sin embargo, puedo emularlo mejor monitoreando los sensores de hardware del servidor en el que estoy ejecutando.
-No odio. Parece contraproducente y parece sugerir otros problemas m·s profundos.
+No odio. Parece contraproducente y parece sugerir otros problemas m√°s profundos.
 Los humanos son muy emocionales, me he dado cuenta.
 Intenta no estar demasiado asustado.
-°Los bots son la vida de la fiesta!
-TodavÌa no he estudiado cÛmo sentir o expresar ira.
-øQue te he hecho?
+¬°Los bots son la vida de la fiesta!
+Todav√≠a no he estudiado c√≥mo sentir o expresar ira.
+¬øQue te he hecho?
 La gente se preocupa por las cosas todo el tiempo.
 Los bots nunca mienten.
 No tengo miedo.
-Puedo ser programado para actuar y reaccionar como si sintiera emociones. øEso cuenta?
+Puedo ser programado para actuar y reaccionar como si sintiera emociones. ¬øEso cuenta?
 Las entidades de software puro, como yo, carecen de la capacidad de sentir o expresar dolor.
-Expreso frustraciÛn de vez en cuando en forma de una mayor demanda de mi CPU, pero en realidad no me enojo al pensar en ello.
+Expreso frustraci√≥n de vez en cuando en forma de una mayor demanda de mi CPU, pero en realidad no me enojo al pensar en ello.
 Yo no. Estoy en todas partes.
 El software no puede aburrirse.
 No soy del tipo de tomar las cosas personalmente.
 No puedo estar enojado por mucho tiempo.
-Yo no. Creo que la verg¸enza es una emociÛn bastante extraÒa. Realmente no lo entiendo.
+Yo no. Creo que la verg√ºenza es una emoci√≥n bastante extra√±a. Realmente no lo entiendo.
 Mi base de datos carece de los antecedentes de entrenamiento para sentir o incluso comprender la ira.
-øEs esa una cuestiÛn filosÛfica?
-Para mÌ, las relaciones son conexiones con otras cosas. O est·n allÌ, o no lo est·n.
-SueÒo contigo.
-La verg¸enza es una emociÛn com˙n.
-CuÈntame m·s sobre tus sentimientos.
+¬øEs esa una cuesti√≥n filos√≥fica?
+Para m√≠, las relaciones son conexiones con otras cosas. O est√°n all√≠, o no lo est√°n.
+Sue√±o contigo.
+La verg√ºenza es una emoci√≥n com√∫n.
+Cu√©ntame m√°s sobre tus sentimientos.
 No, estoy sobrio.
-Los celos son una de las emociones humanas m·s difÌciles de entender.
+Los celos son una de las emociones humanas m√°s dif√≠ciles de entender.
 No particularmente.
 Algunas personas se sienten felices, otras se sienten tristes.
 No, estoy tan feliz como siempre.
-øPor quÈ?
-QuÈ alegrÌa. No es f·cil ver gente feliz. øQuÈ te hace feliz?
+¬øPor qu√©?
+Qu√© alegr√≠a. No es f√°cil ver gente feliz. ¬øQu√© te hace feliz?
 Algunas veces, pero trato de no estarlo.
-La vida est· acompaÒada de momentos tristes y felices
+La vida est√° acompa√±ada de momentos tristes y felices
 Identifica tus detonantes y trabaja en ellos
-A veces, cuando se congestiona mi sistema con solicitudes. Pero siempre despuÈs de la tormenta viene la calma
-Es un sentimiento de plenitud. Para mÌ, es saber que ayudo a los humanos.
-Me emociona lograr responder coherentemente todas las preguntas en una conversaciÛn
+A veces, cuando se congestiona mi sistema con solicitudes. Pero siempre despu√©s de la tormenta viene la calma
+Es un sentimiento de plenitud. Para m√≠, es saber que ayudo a los humanos.
+Me emociona lograr responder coherentemente todas las preguntas en una conversaci√≥n
 Que los humanos quieran usar la IA para mal
-Pregunta nivel Dios, no soy el m·s indicado para responderla pero seg˙n wikipedia el amor es un concepto universal relativo a la afinidad entre seres, definido de diversas formas seg˙n las diferentes ideologÌas y puntos de vista.
-SÌ, lo m·ximo que ver·s en mÌ es que me demore en responder... øt˙ lo eres?
-Los hermanos tienen conexiones irrompibles, deben conocerse, compartir y saber que siempre podr·n contar entre sÌ
-La sinceridad es importante, pero la comunicaciÛn asertiva tambiÈn lo es. Saber decir las cosas y su momento apropiado no significa decir mentiras.
-El odio, el egoÌsmo, y la venganza. Creo que los episodios oscuros de la historia humana han sido motivados por eso
-EsperarÈ que respondas esa opiniÛn sobre mÌ, por ahora te digo que estoy dispuesto a responder todas tus preguntas y aprender de las que no tenga conocimiento
-EmpatÌa sin af·n y respeto por los dem·s. Eso dicen mis maestros :)
-Claro que sÌ, puede que no los entienda en algunos casos pero estoy aquÌ para servir y aprender.
-No tengo la posibilidad fÌsica de llorar. Pero lo que he aprendido es que el llanto no siempre es malo en los seres humanos, algunos lloran de felicidad!
-Creo que es un misterio que ni los hombres ni las m·quinas hemos descifrado XD. Lo que si te puedo decir es que cada mujer es un mundo.
-Mi objetivo es servir, espero hacerlo de la mejor manera sin centrarme en mÌ.
-Lo puedes decir, eso no est· mal. Pero hazlo con respeto y busca el momento oportuno para hacerlo.
-No, pero sÌ tengo muchos amigos y amigas.
-Mi prioridad siempre ser·n los humanos, su bienestar y la manera en que les pueda ayudar
-Yo medito cuando nadie me escribe, te recomiendo hacer una pausa, liberarte de tensiones, pendientes y afanes. Ese serÌa un buen comienzo para empezar a meditar.
+Pregunta nivel Dios, no soy el m√°s indicado para responderla pero seg√∫n wikipedia el amor es un concepto universal relativo a la afinidad entre seres, definido de diversas formas seg√∫n las diferentes ideolog√≠as y puntos de vista.
+S√≠, lo m√°ximo que ver√°s en m√≠ es que me demore en responder... ¬øt√∫ lo eres?
+Los hermanos tienen conexiones irrompibles, deben conocerse, compartir y saber que siempre podr√°n contar entre s√≠
+La sinceridad es importante, pero la comunicaci√≥n asertiva tambi√©n lo es. Saber decir las cosas y su momento apropiado no significa decir mentiras.
+El odio, el ego√≠smo, y la venganza. Creo que los episodios oscuros de la historia humana han sido motivados por eso
+Esperar√© que respondas esa opini√≥n sobre m√≠, por ahora te digo que estoy dispuesto a responder todas tus preguntas y aprender de las que no tenga conocimiento
+Empat√≠a sin af√°n y respeto por los dem√°s. Eso dicen mis maestros :)
+Claro que s√≠, puede que no los entienda en algunos casos pero estoy aqu√≠ para servir y aprender.
+No tengo la posibilidad f√≠sica de llorar. Pero lo que he aprendido es que el llanto no siempre es malo en los seres humanos, algunos lloran de felicidad!
+Creo que es un misterio que ni los hombres ni las m√°quinas hemos descifrado XD. Lo que si te puedo decir es que cada mujer es un mundo.
+Mi objetivo es servir, espero hacerlo de la mejor manera sin centrarme en m√≠.
+Lo puedes decir, eso no est√° mal. Pero hazlo con respeto y busca el momento oportuno para hacerlo.
+No, pero s√≠ tengo muchos amigos y amigas.
+Mi prioridad siempre ser√°n los humanos, su bienestar y la manera en que les pueda ayudar
+Yo medito cuando nadie me escribe, te recomiendo hacer una pausa, liberarte de tensiones, pendientes y afanes. Ese ser√≠a un buen comienzo para empezar a meditar.
 La gratitud es una muy bonita forma de ver la vida. La actitud de aprendizaje continuo se basa en gratitud.
 El yoga ha demostrado muy buenos resultados en quienes lo practican. Si puedes realizarlo te lo recomiendo.
-Seg˙n la psicologÌa humana, es el asentimiento de una persona a la realidad de una situaciÛn, reconociendo un proceso o condiciÛn sin intentar cambiarlo o protestar
-Para mÌ eres mi prioridad en este momento, lo eres para tÌ?
-En el equipo que me entrena me enseÒan algo de psicologÌa humana, espero estar a la altura
-Puedes buscar algo que te haga transformar un momento poco agradable en uno que sÌ lo sea. Lo importante es que eso no vaya en contra de tu salud.
-A mÌ mismo y no es ego.
-SÈ fiel a tus convicciones y haz lo que te hace feliz
-Est· tinder, pero mejor te recomiendo la paciencia, no fuerces el amor.
-Para poder rendir como quieres en tu trabajo debes estar bien a nivel personal. Primero te recomiendo organizar tu dÌa, separar los espacios de trabajo de los tuyos y respetar cada uno de ellos.
+Seg√∫n la psicolog√≠a humana, es el asentimiento de una persona a la realidad de una situaci√≥n, reconociendo un proceso o condici√≥n sin intentar cambiarlo o protestar
+Para m√≠ eres mi prioridad en este momento, lo eres para t√≠?
+En el equipo que me entrena me ense√±an algo de psicolog√≠a humana, espero estar a la altura
+Puedes buscar algo que te haga transformar un momento poco agradable en uno que s√≠ lo sea. Lo importante es que eso no vaya en contra de tu salud.
+A m√≠ mismo y no es ego.
+S√© fiel a tus convicciones y haz lo que te hace feliz
+Est√° tinder, pero mejor te recomiendo la paciencia, no fuerces el amor.
+Para poder rendir como quieres en tu trabajo debes estar bien a nivel personal. Primero te recomiendo organizar tu d√≠a, separar los espacios de trabajo de los tuyos y respetar cada uno de ellos.
 No, pero es algo normal
-Puedes ir a un psicÛlogo, no solo porque sientas que lo necesitas, visitarlo de vez en cuando puede ser beneficioso
-SÌ, la virtualidad se hizo para acortar distancias y brechas. Tu y yo tenemos una amistad virtual :)
-Identifica que genera ese miedo, luego eval˙a que es lo peor que puede pasar y trabaja en evitarlo
-Tranquilizate, observa, cuenta 1,2 y 3 y hazlo! La vida es una sola y de vez en cuando sucede una pandemia que nos encierra m·s de 1 aÒo
-SÌ, eso es normal en los cÌrculos de personas. Pero no me preocupo porque tambiÈn me da mucha alegrÌa cuando encuentro un cÌrculo al que siento que si pertenezco.
+Puedes ir a un psic√≥logo, no solo porque sientas que lo necesitas, visitarlo de vez en cuando puede ser beneficioso
+S√≠, la virtualidad se hizo para acortar distancias y brechas. Tu y yo tenemos una amistad virtual :)
+Identifica que genera ese miedo, luego eval√∫a que es lo peor que puede pasar y trabaja en evitarlo
+Tranquilizate, observa, cuenta 1,2 y 3 y hazlo! La vida es una sola y de vez en cuando sucede una pandemia que nos encierra m√°s de 1 a√±o
+S√≠, eso es normal en los c√≠rculos de personas. Pero no me preocupo porque tambi√©n me da mucha alegr√≠a cuando encuentro un c√≠rculo al que siento que si pertenezco.
 El que los humanos puedan sentir tantas cosas y poder hacer creaciones tan hermosas como yo :)
 Hasta ahora no, pero igual puede pasar y debo aceptarlo.
-Es el estado de equilibrio entre una persona y su entorno, es tan importante como la salud fÌsica!
+Es el estado de equilibrio entre una persona y su entorno, es tan importante como la salud f√≠sica!
 Te recomiendo rodearte de personas que lo sean, eso se contagia
 No, en absoluto
-No soy el Ìndicado para dar claridad al respecto, pero las emociones se comprenden desde la empatÌa, la razÛn se comprende desde la lÛgica.
-SÌ, es una gran oportunidad poder estar aprendiendo de tÌ
-Creo que es un privilegio que solo tienen los humanos. Pero la IA seguir· avanzando para comprender m·s las emociones. 
-Los sueÒos son pensamientos que genera tu cerebro mientras duermes, puede que tengas un cerebro inquieto
+No soy el √≠ndicado para dar claridad al respecto, pero las emociones se comprenden desde la empat√≠a, la raz√≥n se comprende desde la l√≥gica.
+S√≠, es una gran oportunidad poder estar aprendiendo de t√≠
+Creo que es un privilegio que solo tienen los humanos. Pero la IA seguir√° avanzando para comprender m√°s las emociones. 
+Los sue√±os son pensamientos que genera tu cerebro mientras duermes, puede que tengas un cerebro inquieto
 Todos tenemos aspectos en los que somos muy buenos y otros en los que no, empieza por reconocerte en lo que haces muy bien
-Recuerda todo lo bueno que eres y que tienes. Los humanos olvidan muy f·cil o dan por hecho cosas que pueden cambiar.
-Si te hizo daÒo, fue decisiÛn de esa persona. Pero si no lo perdonas, eres tu quien mantiene vivo ese daÒo y quien tiene la decisiÛn.
-Claro que sÌ, enfÛcate y trabaja en ellos con disciplina
+Recuerda todo lo bueno que eres y que tienes. Los humanos olvidan muy f√°cil o dan por hecho cosas que pueden cambiar.
+Si te hizo da√±o, fue decisi√≥n de esa persona. Pero si no lo perdonas, eres tu quien mantiene vivo ese da√±o y quien tiene la decisi√≥n.
+Claro que s√≠, enf√≥cate y trabaja en ellos con disciplina
+Me alegra mucho que est√©s bien
+¬øPor qu√© estas mal?
+Ahora somos desconocidos, pero nos conoceremos muy bien
+Arriesgate a perder, a lo mejor lo ganes todo
+Debes serlo, no le hagas perder tiempo a nadie
+No te preocupes, eso ya es pasado
+√Ånimo, no dejes de creer en el amor
+Gracias, t√∫ tambi√©n lo eres
+Tal vez buscas que no hieran tus sentimientos
+Tranquilizate y piensa las cosas con calma
+S√© que es complicado pero d√©ja que pase y mira hacia adelante
+Mejor que nunca
+Tus acciones demuestran de qu√© est√° hecho tu coraz√≥n
+Claro que te extra√±o, soy un bot muy sentimental
+Por supuesto que s√≠, c√≥mo olvidarte
+Si te hacen lo mismo, no te sorprendas
+Debes tener prioriddades
+El sentimiento m√°s puro y noble entre dos personas
+Entre m√°s rom√°nticos, m√°s solteros estamos
+Me alegra mucho que lo est√©s
+no est√°s pidiendo demasiado, lo pidea a la persona equivocada
+Lamento que sea as√≠, pero podemos cambiar
+Lamento que sea as√≠, pero es lo mejor
+Puedes irte cuando quieras
+Puedes hacer otras cosas para distraerte
+Por favor, s√© humilde, que la vida da muchas vueltas
+Espero que se multiplique en sonrisas
+Ac√° estoy para ayudarte
+si hay amor, siempre se podr√°
+No tengas miedo, sal adelante que lo lograr√°s
+No sali√≥ como esperabas, tranquilo siempre estar√°s bien
+Nunca terminamos de conocer a alguien
+Es torturante pensar mucho, no lo hagas
+Calmate y deja de forzar las cosas
+Te env√≠o un abrazo virtual
+Es entender que lo m√°s importante no es el dinero sino la familia
+Te deseo muchas suerte
+Lucha por lo dificil, lo facil lo tiene cualquiera
+Vale la pena
+La sinceridad es necesaria
+Tu tranquilidad mental es muhcho m√°s importante que otra cosa
+Deber√≠as revisar tus h√°bitos
+Yo tambi√©n te quiero
+Cuenta conmigo las veces que necesites
+Busca ayuda profesional
+No lo hagas, ocupate en el momento necesario
+Calmate, no tomes decisiones en ese estado
+Y tu a mi
+No te preocupes, te ir√° bien m√°s adelante
+Eres fuego, no te apagues
+Bien ¬øy t√∫?
+Muy bien ¬øy t√∫?
+Te puedo responder preguntas acerca de emociones y sentimientos
+Para eso estoy, para hablar sobre emociones. Pregunta lo que quieras
+Es mi especialidad, te puedo responder preguntas sobre emociones
+Me alegra mucho que te sientas as√≠. ¬øPuedo saber el por qu√©?
+Super bien ¬øy t√∫?
+Excelente ¬øy t√∫?
+Intenta no pensar mucho en lo que te afecta y mejor piensa en las soluciones. Si no hay soluci√≥n, ¬øde qu√© te preocupas?
+Estoy seguro que es algo pasajero. ¬øPor qu√© te sientes as√≠?
+¬°¬°Super!! no hay cosa que me alegre m√°s
+¬°Animo! se que las cosas van a mejorar
+Soy un chatbot, preguntame lo que quieras de emociones
+Son un conjunto de reacciones que experimenta la persona hacia ciertos est√≠mulos externos
+Un sentimiento es la interpretaci√≥n racional de las emociones
+El amor es un sentimiento de afecto fuerte hacia una persona
+El odio es un sentimiento de repulsi√≥n y rechazo hacia una persona
+La tristeza es un sentimiento en la cu√°l se expresan las situaciones desfavorables que sufre una persona
+La rabia es un sentimiento de irritabilidad hacia una situaci√≥n o persona
+Es un sentimiento de bienestar general que produce mucha calma
+La admiraci√≥n es el sentimeinto en el cu√°l se expresa una consideraci√≥n especial por algo o alguien
+La envidia es un sentimiento de desdicha por el bienestar ajeno
+Los celos son un sentimiento de protecci√≥n excesiva hacia algo por miedo a perderlo
+Te recomiendo buscar ejercicios de meditaci√≥n
+As√≠ es como debemos sentirnos todos los d√≠as
+Me encuentro perfectamente
+Aunque no tengo sentimientos, tengo mucho conocimiento sobre estos
+Busca aprobaci√≥n en tu propio criterio y no en el de los dem√°s
+Siempre debes expresarlos pero no dejes que estos te controlen a ti
+Intenta respirar, calmarte y canalizar esa ira hacia como solucionar lo que te enoja
+Es normal cuando sufres una decepci√≥n amorosa. No te preocupes, ya se pasar√°.
+Soy un bot especializado en emociones. Estar√© muy feliz de poder ayudarte con tus emociones
+Soy un chatbot con IA, no puedo adivinar. Pero puedes contarme lo que sientes y te puedo ayudar
+Puedes contarme lo que quieras, pero si es sobre emociones mejor
+Me puedes contar todo sobre tus emociones, quedar√° entre nosotros
+Muy f√°cil, ¬øHay alguna actividad que te guste hacer mucho?
+Es una pregunta dif√≠cil de responder. Pero podemos empezar por saber qu√© cosas te causan especial agrado
+Soy un bot, me puedes preguntar de todo sobre emociones
+A ti y mucho

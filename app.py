@@ -38,7 +38,7 @@ def webhook():
 
     log(data)  # logging, no necesario en produccion
 
-    inteligente = True
+    intelligent = True
 
     if data['object'] == 'page':
 
@@ -51,11 +51,9 @@ def webhook():
                     recipient_id = messaging_event['recipient']['id']  # el facebook ID de la pagina que recibe (tu pagina)
                     message_text = messaging_event['message']['text']  # el texto del mensaje
 
-                    if inteligente:
+                    if intelligent:
                         chatbot = ChatBot()
-
                         response = chatbot.start_chat(message_text)
-
                         send_message(sender_id, response)
                     else:
                         send_message(sender_id, 'Hola')

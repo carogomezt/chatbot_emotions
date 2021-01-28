@@ -1,5 +1,3 @@
-# chatterbot
-# git+https://github.com/gunthercox/chatterbot-corpus.git#egg=chatterbot-corpus
 Flask
 Jinja2
 MarkupSafe
@@ -8,9 +6,6 @@ click
 gunicorn
 itsdangerous
 requests
-# spacy==2.2.0
-# https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
-
 tensorflow-cpu==2.3.0
 Keras==2.4.3
 pytz
